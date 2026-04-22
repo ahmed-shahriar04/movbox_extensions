@@ -1,0 +1,17 @@
+{
+  "id": "myflix",
+  "name": "MyFlix",
+  "version": "1.0.0",
+  "description": "বিভিন্ন ধরনের ও ভাষার মুভির বিশাল সংগ্রহ রয়েছে যা আপনার নতুন মুক্তিপ্রাপ্ত মুভি মিস করতে দেবে না।",
+  "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/c2/0d/efc20d85-51c3-27a4-20e7-4a8546e234c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+  "bannerUrl": "https://img.sur.ly/thumbnails/620x343/m/myflixbd.net.png",
+  "websiteUrl": "https://myflixbd.to/",
+  "cdnUrl": "",
+  "type": "mixed",
+  "status": "active",
+  "author": "MoVBox",
+  "language": "en",
+  "minAppVersion": "1",
+  "screenshots": [],
+  "createdAt": "2026-04-22T18:11:03.034Z"
+}
